@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on vanilla and react and other libraries<br>I'm looking to collaborate on front end projects<br>I'm looking for help with Javascript libraries<br>I'm currently learning full stack web development<br>Fun fact : i'm 17 years old right :-)
+I'm currently working on vanilla and react and other libraries<br>I'm looking to collaborate on front end projects<br>I'm looking for help with Javascript libraries<br>I'm also working of backend part <br>I have learned various things in backend like node,express mongo db<br>i have learnt complet MERN stack development<br>I'm currently learning full stack web development<br>Fun fact : i'm 17 years old right :-)
 
 
 ## 🌐 Socials:
